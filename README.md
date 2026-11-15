@@ -34,6 +34,19 @@ The following tasks were performed:
 
 Missing values and zero-sales records were flagged for further investigation rather than replaced with unsupported assumptions.
 
+## Project Screenshots 
+
+## Project Screenshots
+
+### 1. Data Quality Report
+![Data Quality Report](images/Screenshot_20261115-094741.jpg)
+
+### 2. Cleaned Dataset
+![Cleaned Dataset](images/Screenshot_20261115-094825.jpg)
+
+### 3. Deduplicated Data
+![Deduplicated Data](images/Screenshot_20261115-094848.jpg)
+
 ## Conclusion
 
 This project provided practical experience in data cleaning, data quality assessment and spreadsheet-based data preparation.
