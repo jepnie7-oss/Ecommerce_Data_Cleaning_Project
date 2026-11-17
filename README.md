@@ -68,6 +68,19 @@ Exploratory Data Analysis was performed to examine product sales, quantities sol
 
 Project Visualizations
 
+## Project Visualizations
+
+### 1. Total Sales by Product
+
+![Total Sales by Product](images/1794911852127.jpg)
+
+### 2. Total Quantity Sold by Product
+
+![Total Quantity Sold by Product](images/1794911831545.jpg)
+
+### 3. Sales Distribution by Product
+
+![Sales Distribution by Product](images/Screenshot_20261117-133606.jpg)
 1. Total Sales by Product
 
 File location: "images/1794911831545.jpg"
