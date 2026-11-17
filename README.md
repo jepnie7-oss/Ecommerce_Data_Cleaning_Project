@@ -81,23 +81,7 @@ Project Visualizations
 ### 3. Sales Distribution by Product
 
 ![Sales Distribution by Product](images/Screenshot_20261117-133606.jpg)
-1. Total Sales by Product
 
-File location: "images/1794911831545.jpg"
-
-"Total Sales by Product" (images/1794911831545.jpg)
-
-2. Total Quantity Sold by Product
-
-File location: "images/1794911852127.jpg"
-
-"Total Quantity Sold by Product" (images/1794911852127.jpg)
-
-3. Sales Distribution by Product
-
-File location: "images/Screenshot_20261117-133606.jpg"
-
-"Sales Distribution by Product" (images/Screenshot_20261117-133606.jpg)
 
 Key Findings
 
