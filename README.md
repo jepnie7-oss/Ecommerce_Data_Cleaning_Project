@@ -60,3 +60,46 @@ The cleaned dataset will be used for further exploratory data analysis to invest
 - Analyze sales trends.
 - Compare product performance.
 - Generate business insights and recommendations.
+---
+
+Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was performed to examine product sales, quantities sold and overall product performance.
+
+Project Visualizations
+
+1. Total Sales by Product
+
+File location: "images/1794911831545.jpg"
+
+"Total Sales by Product" (images/1794911831545.jpg)
+
+2. Total Quantity Sold by Product
+
+File location: "images/1794911852127.jpg"
+
+"Total Quantity Sold by Product" (images/1794911852127.jpg)
+
+3. Sales Distribution by Product
+
+File location: "images/Screenshot_20261117-133606.jpg"
+
+"Sales Distribution by Product" (images/Screenshot_20261117-133606.jpg)
+
+Key Findings
+
+- Bags recorded the highest sales at KSh 760,800.
+- Shoes recorded the lowest sales at KSh 566,400.
+- Bags had the highest quantity sold at 334 units.
+- Total sales amounted to KSh 3,213,700 across 1,517 units.
+
+Business Recommendations
+
+- Maintain adequate stock of high-performing products, particularly Bags.
+- Review the sales performance of Shoes and explore opportunities to improve demand.
+- Use sales trends to guide inventory planning.
+- Investigate zero-sales records and missing quantities.
+
+Conclusion
+
+The analysis identified differences in product sales performance and purchasing patterns. The findings provide useful information for inventory planning and business decision-making.
